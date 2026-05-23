@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "py_001",
+    "language": "python",
+    "difficulty": "beginner",
+    "title": "Python Challenge 1",
+    "description": "Solve python practice problem 1: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "variables",
+      "loops"
+    ],
+    "points": 10
+  },
+  {
+    "id": "py_002",
+    "language": "python",
+    "difficulty": "beginner",
+    "title": "Python Challenge 2",
+    "description": "Solve python practice problem 2: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "loops",
+      "functions"
+    ],
+    "points": 10
+  },
+  {
+    "id": "py_003",
+    "language": "python",
+    "difficulty": "beginner",
+    "title": "Python Challenge 3",
+    "description": "Solve python practice problem 3: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "functions",
+      "lists"
+    ],
+    "points": 10
+  },
+  {
+    "id": "py_004",
+    "language": "python",
+    "difficulty": "beginner",
+    "title": "Python Challenge 4",
+    "description": "Solve python practice problem 4: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "lists",
+      "dicts"
+    ],
+    "points": 10
+  },
+  {
+    "id": "py_005",
+    "language": "python",
+    "difficulty": "beginner",
+    "title": "Python Challenge 5",
+    "description": "Solve python practice problem 5: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "dicts",
+      "classes"
+    ],
+    "points": 10
+  },
+  {
+    "id": "py_006",
+    "language": "python",
+    "difficulty": "beginner",
+    "title": "Python Challenge 6",
+    "description": "Solve python practice problem 6: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "classes",
+      "error handling"
+    ],
+    "points": 10
+  },
+  {
+    "id": "py_007",
+    "language": "python",
+    "difficulty": "beginner",
+    "title": "Python Challenge 7",
+    "description": "Solve python practice problem 7: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "error handling",
+      "strings"
+    ],
+    "points": 10
+  },
+  {
+    "id": "py_008",
+    "language": "python",
+    "difficulty": "beginner",
+    "title": "Python Challenge 8",
+    "description": "Solve python practice problem 8: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "strings",
+      "recursion"
+    ],
+    "points": 10
+  },
+  {
+    "id": "py_009",
+    "language": "python",
+    "difficulty": "beginner",
+    "title": "Python Challenge 9",
+    "description": "Solve python practice problem 9: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "recursion",
+      "sorting"
+    ],
+    "points": 10
+  },
+  {
+    "id": "py_010",
+    "language": "python",
+    "difficulty": "beginner",
+    "title": "Python Challenge 10",
+    "description": "Solve python practice problem 10: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "sorting",
+      "variables"
+    ],
+    "points": 10
+  },
+  {
+    "id": "py_011",
+    "language": "python",
+    "difficulty": "intermediate",
+    "title": "Python Challenge 11",
+    "description": "Solve python practice problem 11: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "variables",
+      "loops"
+    ],
+    "points": 20
+  },
+  {
+    "id": "py_012",
+    "language": "python",
+    "difficulty": "intermediate",
+    "title": "Python Challenge 12",
+    "description": "Solve python practice problem 12: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "loops",
+      "functions"
+    ],
+    "points": 20
+  },
+  {
+    "id": "py_013",
+    "language": "python",
+    "difficulty": "intermediate",
+    "title": "Python Challenge 13",
+    "description": "Solve python practice problem 13: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "functions",
+      "lists"
+    ],
+    "points": 20
+  },
+  {
+    "id": "py_014",
+    "language": "python",
+    "difficulty": "intermediate",
+    "title": "Python Challenge 14",
+    "description": "Solve python practice problem 14: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "lists",
+      "dicts"
+    ],
+    "points": 20
+  },
+  {
+    "id": "py_015",
+    "language": "python",
+    "difficulty": "intermediate",
+    "title": "Python Challenge 15",
+    "description": "Solve python practice problem 15: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "dicts",
+      "classes"
+    ],
+    "points": 20
+  },
+  {
+    "id": "py_016",
+    "language": "python",
+    "difficulty": "intermediate",
+    "title": "Python Challenge 16",
+    "description": "Solve python practice problem 16: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "classes",
+      "error handling"
+    ],
+    "points": 20
+  },
+  {
+    "id": "py_017",
+    "language": "python",
+    "difficulty": "intermediate",
+    "title": "Python Challenge 17",
+    "description": "Solve python practice problem 17: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "error handling",
+      "strings"
+    ],
+    "points": 20
+  },
+  {
+    "id": "py_018",
+    "language": "python",
+    "difficulty": "intermediate",
+    "title": "Python Challenge 18",
+    "description": "Solve python practice problem 18: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "strings",
+      "recursion"
+    ],
+    "points": 20
+  },
+  {
+    "id": "py_019",
+    "language": "python",
+    "difficulty": "intermediate",
+    "title": "Python Challenge 19",
+    "description": "Solve python practice problem 19: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "recursion",
+      "sorting"
+    ],
+    "points": 20
+  },
+  {
+    "id": "py_020",
+    "language": "python",
+    "difficulty": "intermediate",
+    "title": "Python Challenge 20",
+    "description": "Solve python practice problem 20: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "sorting",
+      "variables"
+    ],
+    "points": 20
+  },
+  {
+    "id": "js_001",
+    "language": "javascript",
+    "difficulty": "beginner",
+    "title": "Javascript Challenge 1",
+    "description": "Solve javascript practice problem 1: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "variables",
+      "arrays"
+    ],
+    "points": 10
+  },
+  {
+    "id": "js_002",
+    "language": "javascript",
+    "difficulty": "beginner",
+    "title": "Javascript Challenge 2",
+    "description": "Solve javascript practice problem 2: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "arrays",
+      "functions"
+    ],
+    "points": 10
+  },
+  {
+    "id": "js_003",
+    "language": "javascript",
+    "difficulty": "beginner",
+    "title": "Javascript Challenge 3",
+    "description": "Solve javascript practice problem 3: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "functions",
+      "objects"
+    ],
+    "points": 10
+  },
+  {
+    "id": "js_004",
+    "language": "javascript",
+    "difficulty": "beginner",
+    "title": "Javascript Challenge 4",
+    "description": "Solve javascript practice problem 4: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "objects",
+      "promises"
+    ],
+    "points": 10
+  },
+  {
+    "id": "js_005",
+    "language": "javascript",
+    "difficulty": "beginner",
+    "title": "Javascript Challenge 5",
+    "description": "Solve javascript practice problem 5: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "promises",
+      "async/await"
+    ],
+    "points": 10
+  },
+  {
+    "id": "js_006",
+    "language": "javascript",
+    "difficulty": "beginner",
+    "title": "Javascript Challenge 6",
+    "description": "Solve javascript practice problem 6: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "async/await",
+      "loops"
+    ],
+    "points": 10
+  },
+  {
+    "id": "js_007",
+    "language": "javascript",
+    "difficulty": "beginner",
+    "title": "Javascript Challenge 7",
+    "description": "Solve javascript practice problem 7: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "loops",
+      "DOM"
+    ],
+    "points": 10
+  },
+  {
+    "id": "js_008",
+    "language": "javascript",
+    "difficulty": "beginner",
+    "title": "Javascript Challenge 8",
+    "description": "Solve javascript practice problem 8: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "DOM",
+      "strings"
+    ],
+    "points": 10
+  },
+  {
+    "id": "js_009",
+    "language": "javascript",
+    "difficulty": "beginner",
+    "title": "Javascript Challenge 9",
+    "description": "Solve javascript practice problem 9: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "strings",
+      "map/filter"
+    ],
+    "points": 10
+  },
+  {
+    "id": "js_010",
+    "language": "javascript",
+    "difficulty": "beginner",
+    "title": "Javascript Challenge 10",
+    "description": "Solve javascript practice problem 10: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "map/filter",
+      "variables"
+    ],
+    "points": 10
+  },
+  {
+    "id": "js_011",
+    "language": "javascript",
+    "difficulty": "intermediate",
+    "title": "Javascript Challenge 11",
+    "description": "Solve javascript practice problem 11: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "variables",
+      "arrays"
+    ],
+    "points": 20
+  },
+  {
+    "id": "js_012",
+    "language": "javascript",
+    "difficulty": "intermediate",
+    "title": "Javascript Challenge 12",
+    "description": "Solve javascript practice problem 12: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "arrays",
+      "functions"
+    ],
+    "points": 20
+  },
+  {
+    "id": "js_013",
+    "language": "javascript",
+    "difficulty": "intermediate",
+    "title": "Javascript Challenge 13",
+    "description": "Solve javascript practice problem 13: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "functions",
+      "objects"
+    ],
+    "points": 20
+  },
+  {
+    "id": "js_014",
+    "language": "javascript",
+    "difficulty": "intermediate",
+    "title": "Javascript Challenge 14",
+    "description": "Solve javascript practice problem 14: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "objects",
+      "promises"
+    ],
+    "points": 20
+  },
+  {
+    "id": "js_015",
+    "language": "javascript",
+    "difficulty": "intermediate",
+    "title": "Javascript Challenge 15",
+    "description": "Solve javascript practice problem 15: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "promises",
+      "async/await"
+    ],
+    "points": 20
+  },
+  {
+    "id": "js_016",
+    "language": "javascript",
+    "difficulty": "intermediate",
+    "title": "Javascript Challenge 16",
+    "description": "Solve javascript practice problem 16: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "async/await",
+      "loops"
+    ],
+    "points": 20
+  },
+  {
+    "id": "js_017",
+    "language": "javascript",
+    "difficulty": "intermediate",
+    "title": "Javascript Challenge 17",
+    "description": "Solve javascript practice problem 17: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "loops",
+      "DOM"
+    ],
+    "points": 20
+  },
+  {
+    "id": "js_018",
+    "language": "javascript",
+    "difficulty": "intermediate",
+    "title": "Javascript Challenge 18",
+    "description": "Solve javascript practice problem 18: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "DOM",
+      "strings"
+    ],
+    "points": 20
+  },
+  {
+    "id": "js_019",
+    "language": "javascript",
+    "difficulty": "intermediate",
+    "title": "Javascript Challenge 19",
+    "description": "Solve javascript practice problem 19: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "strings",
+      "map/filter"
+    ],
+    "points": 20
+  },
+  {
+    "id": "js_020",
+    "language": "javascript",
+    "difficulty": "intermediate",
+    "title": "Javascript Challenge 20",
+    "description": "Solve javascript practice problem 20: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "map/filter",
+      "variables"
+    ],
+    "points": 20
+  },
+  {
+    "id": "cpp_001",
+    "language": "c++",
+    "difficulty": "beginner",
+    "title": "C++ Challenge 1",
+    "description": "Solve c++ practice problem 1: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "variables",
+      "loops"
+    ],
+    "points": 10
+  },
+  {
+    "id": "cpp_002",
+    "language": "c++",
+    "difficulty": "beginner",
+    "title": "C++ Challenge 2",
+    "description": "Solve c++ practice problem 2: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "loops",
+      "functions"
+    ],
+    "points": 10
+  },
+  {
+    "id": "cpp_003",
+    "language": "c++",
+    "difficulty": "beginner",
+    "title": "C++ Challenge 3",
+    "description": "Solve c++ practice problem 3: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "functions",
+      "arrays"
+    ],
+    "points": 10
+  },
+  {
+    "id": "cpp_004",
+    "language": "c++",
+    "difficulty": "beginner",
+    "title": "C++ Challenge 4",
+    "description": "Solve c++ practice problem 4: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "arrays",
+      "pointers"
+    ],
+    "points": 10
+  },
+  {
+    "id": "cpp_005",
+    "language": "c++",
+    "difficulty": "beginner",
+    "title": "C++ Challenge 5",
+    "description": "Solve c++ practice problem 5: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "pointers",
+      "classes"
+    ],
+    "points": 10
+  },
+  {
+    "id": "cpp_006",
+    "language": "c++",
+    "difficulty": "beginner",
+    "title": "C++ Challenge 6",
+    "description": "Solve c++ practice problem 6: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "classes",
+      "strings"
+    ],
+    "points": 10
+  },
+  {
+    "id": "cpp_007",
+    "language": "c++",
+    "difficulty": "beginner",
+    "title": "C++ Challenge 7",
+    "description": "Solve c++ practice problem 7: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "strings",
+      "vectors"
+    ],
+    "points": 10
+  },
+  {
+    "id": "cpp_008",
+    "language": "c++",
+    "difficulty": "beginner",
+    "title": "C++ Challenge 8",
+    "description": "Solve c++ practice problem 8: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "vectors",
+      "recursion"
+    ],
+    "points": 10
+  },
+  {
+    "id": "cpp_009",
+    "language": "c++",
+    "difficulty": "beginner",
+    "title": "C++ Challenge 9",
+    "description": "Solve c++ practice problem 9: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "recursion",
+      "sorting"
+    ],
+    "points": 10
+  },
+  {
+    "id": "cpp_010",
+    "language": "c++",
+    "difficulty": "beginner",
+    "title": "C++ Challenge 10",
+    "description": "Solve c++ practice problem 10: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "sorting",
+      "variables"
+    ],
+    "points": 10
+  },
+  {
+    "id": "cpp_011",
+    "language": "c++",
+    "difficulty": "intermediate",
+    "title": "C++ Challenge 11",
+    "description": "Solve c++ practice problem 11: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "variables",
+      "loops"
+    ],
+    "points": 20
+  },
+  {
+    "id": "cpp_012",
+    "language": "c++",
+    "difficulty": "intermediate",
+    "title": "C++ Challenge 12",
+    "description": "Solve c++ practice problem 12: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "loops",
+      "functions"
+    ],
+    "points": 20
+  },
+  {
+    "id": "cpp_013",
+    "language": "c++",
+    "difficulty": "intermediate",
+    "title": "C++ Challenge 13",
+    "description": "Solve c++ practice problem 13: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "functions",
+      "arrays"
+    ],
+    "points": 20
+  },
+  {
+    "id": "cpp_014",
+    "language": "c++",
+    "difficulty": "intermediate",
+    "title": "C++ Challenge 14",
+    "description": "Solve c++ practice problem 14: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "arrays",
+      "pointers"
+    ],
+    "points": 20
+  },
+  {
+    "id": "cpp_015",
+    "language": "c++",
+    "difficulty": "intermediate",
+    "title": "C++ Challenge 15",
+    "description": "Solve c++ practice problem 15: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "pointers",
+      "classes"
+    ],
+    "points": 20
+  },
+  {
+    "id": "cpp_016",
+    "language": "c++",
+    "difficulty": "intermediate",
+    "title": "C++ Challenge 16",
+    "description": "Solve c++ practice problem 16: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "classes",
+      "strings"
+    ],
+    "points": 20
+  },
+  {
+    "id": "cpp_017",
+    "language": "c++",
+    "difficulty": "intermediate",
+    "title": "C++ Challenge 17",
+    "description": "Solve c++ practice problem 17: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "strings",
+      "vectors"
+    ],
+    "points": 20
+  },
+  {
+    "id": "cpp_018",
+    "language": "c++",
+    "difficulty": "intermediate",
+    "title": "C++ Challenge 18",
+    "description": "Solve c++ practice problem 18: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "vectors",
+      "recursion"
+    ],
+    "points": 20
+  },
+  {
+    "id": "cpp_019",
+    "language": "c++",
+    "difficulty": "intermediate",
+    "title": "C++ Challenge 19",
+    "description": "Solve c++ practice problem 19: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "recursion",
+      "sorting"
+    ],
+    "points": 20
+  },
+  {
+    "id": "cpp_020",
+    "language": "c++",
+    "difficulty": "intermediate",
+    "title": "C++ Challenge 20",
+    "description": "Solve c++ practice problem 20: write a function for core logic and print the required output.",
+    "examples": [
+      {
+        "input": "sample input",
+        "output": "sample output"
+      }
+    ],
+    "hints": [
+      "Break the problem into steps",
+      "Test with a small example",
+      "Watch edge cases"
+    ],
+    "starter_code": "",
+    "solution": "",
+    "concepts": [
+      "sorting",
+      "variables"
+    ],
+    "points": 20
+  }
+]
