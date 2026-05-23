@@ -1,0 +1,1 @@
+export default function ProgressBar({label,value,max}){const pct=Math.round((value/max)*100);return <div><div className='flex justify-between text-sm'><span>{label}</span><span>{value}/{max}</span></div><div className='h-2 bg-borderc rounded'><div className='h-2 bg-success rounded' style={{width:`${pct}%`}}/></div></div>}
